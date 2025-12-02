@@ -14,9 +14,9 @@ Benchmark Performance: By continuously analyzing the data, FedEx can set perform
 
 ## Data File
 
-<a href= "" > Data File </a>
+<a href= "https://github.com/Chayan280/FedEx_Logistics_Performance_Analysis/blob/main/SCMS_Delivery_History_Dataset.csv" > Data File </a>
 ## Dashboard
 
-<a href= "" > Data File </a>
+<a href= "https://github.com/Chayan280/FedEx_Logistics_Performance_Analysis/blob/main/Screenshot%202025-12-02%20203328.png" > Data File </a>
 ## Conclusion
 In conclusion, FedEx Logistics demonstrates strong overall performance in key areas like cost management and delivery speed, underpinned by a strategic focus on specialized sectors. To further enhance performance, the company should focus on reducing cost and delivery variance, leveraging its vendor agreements to optimize high-cost and high-delay shipments, and solidifying its position as a leading logistics partner in the medical goods market.
